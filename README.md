@@ -1,7 +1,11 @@
 # AI Support Chatbot
-
-- Description: The application allows users to chat with a support agent, persists conversations, and restores chat history on reload using a session-based approach.
 <h3> <a href= "https://beautiful-hummingbird-6da801.netlify.app/" >Live Demo</a> </h3>
+
+- AI-Powered E-commerce Support: Provides real-time chat assistance for product inquiries, order-related questions, and general store support through an intelligent AI agent.
+
+- Session-Based Conversation Persistence: Maintains chat history across page reloads and user sessions, allowing seamless continuation of conversations without losing context.
+
+- Context-Aware AI Responses: Stores and retrieves conversation history from the backend to generate relevant, accurate responses based on prior interactions.
 
 ## Features
 
